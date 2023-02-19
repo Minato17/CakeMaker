@@ -1,0 +1,26 @@
+Dobos
+5
+Cremes
+4
+Basbousa
+7
+Blondie
+4
+Briose
+6
+Falculelle
+8
+Tort de Genova
+4
+Tort de ciocolata
+7
+Turta dulce
+3
+Tort Hevva
+10
+Prajitura cu inghetata
+5
+Tort Joffre
+6
+Kabuni
+2

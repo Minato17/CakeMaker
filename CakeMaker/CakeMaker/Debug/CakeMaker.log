@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\ms\cakemaker\cakemaker\source.cpp(95): warning C4018: '<': signed/unsigned mismatch
+d:\ms\cakemaker\cakemaker\source.cpp(123): warning C4018: '<': signed/unsigned mismatch
+d:\ms\cakemaker\cakemaker\source.cpp(115): warning C4715: 'CarouselOfCakes::getCake': not all control paths return a value
+  CakeMaker.vcxproj -> D:\Ms\CakeMaker\Debug\CakeMaker.exe
